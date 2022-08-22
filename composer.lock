@@ -4,8 +4,35 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "258918b8cac591589970faa0debf4af7",
+    "content-hash": "c5b71f8c684b54cefdffa817e3527e9a",
     "packages": [
+        {
+            "name": "amohd12/php-mvc-core",
+            "version": "v1.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/amyaya20/am-php-mvc-core.git",
+                "reference": "b4fbc83d15b19b29f2eddfc0b8f07535aa1f383e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/amyaya20/am-php-mvc-core/zipball/b4fbc83d15b19b29f2eddfc0b8f07535aa1f383e",
+                "reference": "b4fbc83d15b19b29f2eddfc0b8f07535aa1f383e",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "amohd12\\phpmvc\\": "."
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "support": {
+                "issues": "https://github.com/amyaya20/am-php-mvc-core/issues",
+                "source": "https://github.com/amyaya20/am-php-mvc-core/tree/v1.0.2"
+            },
+            "time": "2022-08-22T07:33:08+00:00"
+        },
         {
             "name": "graham-campbell/result-type",
             "version": "v1.1.0",
