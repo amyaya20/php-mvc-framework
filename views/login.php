@@ -6,7 +6,7 @@
 
 <h1>Login</h1> 
 
-<?php use app\core\form\Form; ?>
+<?php use amohd12\phpmvc\form\Form; ?>
 
 <?php $form = Form::begin('', "post"); ?>
 

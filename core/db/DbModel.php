@@ -1,8 +1,8 @@
 <?php
 
-    namespace app\core\db;
-    use app\core\Model;
-    use app\core\Application;
+    namespace amohd12\phpmvc\db;
+    use amohd12\phpmvc\Model;
+    use amohd12\phpmvc\Application;
 
 
 

@@ -1,8 +1,8 @@
 <?php
 
-    namespace app\core;
+    namespace amohd12\phpmvc;
 
-    use app\core\middlewares\BaseMiddleware;
+    use amohd12\phpmvc\middlewares\BaseMiddleware;
 
 
     class Controller{
@@ -10,7 +10,7 @@
 
         public string $layout = 'main';
 
-        // it is an array of BaseMiddleware => \app\core\middleware[]
+        // it is an array of BaseMiddleware => \amohd12\phpmvc\middleware[]
         protected array $middlewares = [];
 
         public string $action = '';

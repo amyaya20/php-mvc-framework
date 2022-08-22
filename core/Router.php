@@ -1,8 +1,8 @@
 <?php
 
-    namespace app\core;
+    namespace amohd12\phpmvc;
 
-    use app\core\exception\NotFoundException;
+    use amohd12\phpmvc\exception\NotFoundException;
 
     class Router{
 
@@ -67,7 +67,7 @@
 
             if(is_array($callback)){
 
-                /** @var \app\core\Controller $controller */
+                /** @var \amohd12\phpmvc\Controller $controller */
 
                 $controller = new $callback[0]();
                 Application::$app-> controller= $controller;

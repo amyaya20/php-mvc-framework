@@ -1,7 +1,7 @@
 <?php
 
-    namespace app\core;
-    use app\core\db\DbModel;
+    namespace amohd12\phpmvc;
+    use amohd12\phpmvc\db\DbModel;
 
     abstract class UserModel extends DbModel {
 

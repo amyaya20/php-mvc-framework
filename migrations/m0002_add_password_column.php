@@ -1,6 +1,6 @@
 <?php
 
-use app\core\Application;
+use amohd12\phpmvc\Application;
 
     class m0002_add_password_column {
 

@@ -1,6 +1,6 @@
 <?php
-use app\core\form\Form;
-use app\core\form\TextareaField;
+use amohd12\phpmvc\form\Form;
+use amohd12\phpmvc\form\TextareaField;
 
   $this-> title = 'Contact';
 

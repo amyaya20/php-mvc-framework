@@ -1,7 +1,7 @@
 <?php 
 
 
-    namespace app\core;
+    namespace amohd12\phpmvc;
 
     class View {
 

@@ -1,7 +1,7 @@
 <?php
 
-    namespace app\core\form;
-    use app\core\Model;
+    namespace amohd12\phpmvc\form;
+    use amohd12\phpmvc\Model;
 
     class Form {
 

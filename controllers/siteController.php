@@ -4,12 +4,12 @@
 
     namespace app\controllers;
 
-use app\core\Application;
-use app\core\Request;
-use app\core\Response;
+use amohd12\phpmvc\Application;
+use amohd12\phpmvc\Request;
+use amohd12\phpmvc\Response;
 use app\models\ContactForm;
 
-    class SiteController extends \app\core\Controller{
+    class SiteController extends \amohd12\phpmvc\Controller{
 
 
         

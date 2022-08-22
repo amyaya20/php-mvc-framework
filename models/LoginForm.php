@@ -2,8 +2,8 @@
 
 namespace app\models;
 
-use app\core\Application;
-use app\core\Model;
+use amohd12\phpmvc\Application;
+use amohd12\phpmvc\Model;
 use app\models\User;
 
     

@@ -1,7 +1,7 @@
 <?php
 
-    namespace app\core;
-    use app\core\db\Database;
+    namespace amohd12\phpmvc;
+    use amohd12\phpmvc\db\Database;
    
 
 

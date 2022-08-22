@@ -1,7 +1,7 @@
 
 <?php
 
-use app\core\Application;
+use amohd12\phpmvc\Application;
 
 // echo "<pre>";
 // var_dump(Application::$app-> user);

@@ -1,6 +1,6 @@
 <?php
 
-    namespace app\core;
+    namespace amohd12\phpmvc;
     abstract class Model {
 
 

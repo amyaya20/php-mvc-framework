@@ -1,9 +1,9 @@
 <?php
 
 require_once __DIR__ .'/vendor/autoload.php';
-//$app = new \app\core\Application();
+//$app = new \amohd12\phpmvc\Application();
 // OR
-use app\core\Application;
+use amohd12\phpmvc\Application;
 
 
 $dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
